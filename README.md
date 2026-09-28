@@ -5,6 +5,7 @@
 [![Fastify](https://img.shields.io/badge/Fastify-5.1-black.svg)](https://www.fastify.io/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-7.6-green.svg)](https://www.mongodb.com/)
 [![Vitest](https://img.shields.io/badge/Vitest-1.4-yellow.svg)](https://vitest.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **TRACE** is a rail transit delay cascade propagation engine, Monte Carlo bottleneck simulation platform, and topological transit visualization tool. It models how localized train delays ripple through complex rail networks, identifies systemic network vulnerabilities, and allows interactive experimentation with infrastructure parameters.
 
@@ -315,4 +316,4 @@ TRACE/
 
 ## License
 
-This project is created as an educational transit simulation prototype.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
